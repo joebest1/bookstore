@@ -1,0 +1,36 @@
+﻿@model WebApplication8.Models.Books
+
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h1>Book Details</h1>
+
+<div class="card mb-3" style="max-width: 540px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            @if (!string.IsNullOrEmpty(Model.ImageFileName))
+            {
+                <img src="/images/books/@Model.ImageFileName" class="img-fluid rounded-start" alt="@Model.Title" />
+            }
+            else
+            {
+                <img src="/images/books/default.png" class="img-fluid rounded-start" alt="No Image" />
+            }
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">@Model.Title</h5>
+                <p class="card-text"><strong>Author:</strong> @Model.Author</p>
+                <p class="card-text"><strong>Category:</strong> @Model.Category</p>
+                <p class="card-text"><strong>Price:</strong> @Model.Price.ToString("C")</p>
+                <p class="card-text"><strong>Published Date:</strong> @Model.PublishedDate.ToShortDateString()</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

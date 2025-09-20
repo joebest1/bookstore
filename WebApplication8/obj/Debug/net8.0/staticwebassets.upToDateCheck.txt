@@ -1,0 +1,6 @@
+wwwroot\images\books\001e6fbe-61d5-487e-b7a7-02d87cdcf060.jpg
+wwwroot\images\books\1c22a040-b3a9-4202-8a16-bb96fee92a4f.jpg
+wwwroot\images\books\4d55ee1a-9f01-47df-9ee3-18b0264a8598.jpg
+wwwroot\images\books\8c122ca9-f9bb-47da-88a9-71c2ae98adc7.jpg
+wwwroot\images\books\a2258b4f-93ce-46e8-9b35-e123a1143ea0.jpg
+wwwroot\images\pexels-siddanthsawant-33534263.jpg

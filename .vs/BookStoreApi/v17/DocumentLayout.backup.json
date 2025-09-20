@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\original\\source\\repos\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\viewmodels\\forget\u0026reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\viewmodels\\forget\u0026reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\controllers\\user\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\user\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\controllers\\user\\emailmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\user\\emailmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\controllers\\book\\apibookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\book\\apibookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\controllers\\cart\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\cart\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\controllers\\book\\apifiltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\book\\apifiltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\seeds\\seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\seeds\\seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\data\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|c:\\users\\original\\source\\repos\\webapplication8\\webapplication8\\migrations\\20250908211845_meg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFF9A47-9446-4C86-B943-12B4F9FF436E}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\migrations\\20250908211845_meg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\Cart\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\Cart\\CartController.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\Cart\\CartController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\Cart\\CartController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIAxwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:42:01.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\Cart.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\Cart.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:35:05.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forget\u0026Reset.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\ViewModels\\Forget\u0026Reset.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\ViewModels\\Forget\u0026Reset.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\ViewModels\\Forget\u0026Reset.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\ViewModels\\Forget\u0026Reset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:40:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserApiController.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\User\\UserApiController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\User\\UserApiController.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\User\\UserApiController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\User\\UserApiController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:43:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiBookController.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\book\\ApiBookController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\book\\ApiBookController.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\book\\ApiBookController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\book\\ApiBookController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:31:50.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiFilterController.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\book\\ApiFilterController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\book\\ApiFilterController.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\book\\ApiFilterController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\book\\ApiFilterController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:35:13.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\Db.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\Db.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\Db.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:35:32.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailMsg.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\User\\EmailMsg.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\User\\EmailMsg.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\User\\EmailMsg.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\User\\EmailMsg.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:53:59.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Dto\\CartDto.cs",
+              "RelativeToolTip": "WebApplication8\\Dto\\CartDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:48:01.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Program.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeToolTip": "WebApplication8\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:04:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication8\\appsettings.json",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeToolTip": "WebApplication8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T17:52:36.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:21:34.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Seeds\\SeedAdmin.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Seeds\\SeedAdmin.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Seeds\\SeedAdmin.cs",
+              "RelativeToolTip": "WebApplication8\\Seeds\\SeedAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:04:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:35:29.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250908211845_meg1.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250908211845_meg1.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250908211845_meg1.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250908211845_meg1.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250908211845_meg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T21:18:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\Books.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\Books.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\Books.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\Books.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:35:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\original\\source\\repos\\WebApplication8\\WebApplication8\\Data\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:46:07.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
